@@ -1,0 +1,1 @@
+module.exports={url:'mongodb://admin:admin1@ds141274.mlab.com:41274/gizosumunrestorandatabasei'};
