@@ -13,7 +13,7 @@
   "author": "gizemlermi",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.18.1",
+    "body-parser": "^1.18.1",
     "express":"^4.15.4",
     "mongodb":"^2.2.31"
   },
